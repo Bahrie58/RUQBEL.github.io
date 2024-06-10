@@ -242,7 +242,7 @@ nav img {
         transition: .3s ease;
     }
     .nav .container-dropdown.active i {
-        transform: rotateZ(-180deg);
+        transform: rotateZ(180deg);
     }
     .nav.phone {
         padding-bottom: 32px;
